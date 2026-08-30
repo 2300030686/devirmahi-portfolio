@@ -92,8 +92,25 @@ const projects = [
       "AWS",
       "AI",
     ],
-    featured: false,
-    github: "https://github.com/2300030686",
+    featured: true,
+    github: "https://github.com/2300030686/AI_Powered-Pet-Adoption-Portal.git",
+  },
+  {
+    
+  number: "03",
+  title: "Event Management Full-Stack",
+  description:
+    "A full-stack event management application designed to streamline event creation, management, and user interaction through a modern web application.",
+  stack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Full Stack",
+    "Web Development",
+  ],
+  featured: true,
+  github: "https://github.com/2300030686/event-management-fullstack.git",
+
   },
 ];
 
