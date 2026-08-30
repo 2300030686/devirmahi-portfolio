@@ -99,6 +99,12 @@ const projects = [
 
 const certifications = [
   {
+  title: "Microsoft Certified: Azure Fundamentals",
+  issuer: "MICROSOFT",
+  link:
+    "https://learn.microsoft.com/en-us/users/tirumanisettydevirmahi-8287/credentials/d0ed863fe840846e",
+  },
+  {
     title: "MongoDB Associate Developer",
     issuer: "MongoDB",
     link:
